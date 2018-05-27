@@ -2,3 +2,7 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# Distribution
+build/
+# Dependency directories
+node_modules
